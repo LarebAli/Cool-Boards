@@ -47,7 +47,7 @@ namespace Cool_Boards
         {
             label2.Show();
             label3.Show();
-            label5.Text = "Mon - Sun: 10:00 AM to 12:00 AM";
+            label5.Text = "Mon - Sun: 08:00 AM to 11:00 AM";
             label5.Refresh();
             label4.Text = "2460 Burwell Heights Road";
             label4.Refresh();
@@ -57,7 +57,7 @@ namespace Cool_Boards
         {
             label2.Show();
             label3.Show();
-            label5.Text = "Mon - Fri: 8:00 AM to 8:00 PM";
+            label5.Text = "Mon - Fri: 11:00 AM to 04:00 PM";
             label5.Refresh();
             label4.Text = "3151 Rockford Road";
             label4.Refresh();
@@ -67,7 +67,7 @@ namespace Cool_Boards
         {
             label2.Show();
             label3.Show();
-            label5.Text = "Mon - Sat: 10:00 AM to 10:00 PM";
+            label5.Text = "Mon - Sat: 05:00 AM to 09:00 PM";
             label5.Refresh();
             label4.Text = "2857 Eastland Avenue";
             label4.Refresh();
